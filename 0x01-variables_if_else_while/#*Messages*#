@@ -1,0 +1,23 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Auto-saving...done
+previous-line: Beginning of buffer [17 times]
+funcall-interactively: Beginning of buffer
+user-error: No mark set in this buffer [2 times]
+command-execute: Buffer is read-only: #<buffer *Messages*> [2 times]
+C-h C-x C-c is undefined
+user-error: No mark set in this buffer
+C-c C-x C-c is undefined
+completing-read-default: Command attempted to use minibuffer while in minibuffer [2 times]
+Wrote /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*
+Saving file /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*...
+Wrote /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*
+Save file /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*? (y, n, !, ., q, C-r, d or C-h) y
+Saving file /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*...
+Wrote /root/alx-low_level_programming/0x01-variables_if_else_while/*Messages*
+Save file /root/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c? (y, n, !, ., q, C-r, d or C-h) y
+Saving file /root/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c...
+Wrote /root/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+Please answer yes or no.
