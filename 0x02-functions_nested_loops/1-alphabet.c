@@ -1,15 +1,15 @@
 #include "main.h"
 /**
-* main - check the code
-* Description: 'the program's description'
-* Return: Always 0.
+* print_alphabet - function to print abc
+*
+* Return: 0
 */
 void print_alphabet(void)
 {
-char letter;
-for (letter = 'a'; letter <= 'z'; letter++)
+char my;
+for (my = 'a'; my <= 'z'; my++)
 {
-_putchar (letter);
+_putchar(my);
 }
-_putchar ('\n');
+_putchar('\n');
 }
