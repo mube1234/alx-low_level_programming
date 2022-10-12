@@ -1,1 +1,1 @@
-All about functions and nested loops in C
+0x02-functions_nested_loops
